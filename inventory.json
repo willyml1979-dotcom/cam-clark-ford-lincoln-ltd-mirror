@@ -1,10 +1,20 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-09-24T15:39:52",
-  "vehicle_count": 59,
+  "generated_at": "2026-09-24T23:58:14",
+  "vehicle_count": 81,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Used2007ToyotaFJ Cruiser",
+      "vin": "JTEBU11F270050281",
+      "stock": "25F0400",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/37e6083e65d9.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:48:49",
+      "condition": "used"
+    },
     {
       "name": "Used2016SubaruForesteri Convenience",
       "vin": "JF2SJCCC4GH526903",
@@ -54,6 +64,17 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020FordExplorerLimited",
+      "vin": "1FM5K8FW2LGC69263",
+      "stock": "P14089",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/4b12144bcdf0.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:49:04",
       "condition": "used"
     },
     {
@@ -118,7 +139,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9b9c9b651672.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-big-bend-0VimW44EQYGg9cjYwi2vaQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-big-bend-0VimW44EQYGg9cjYwi2vaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:32:27",
+      "last_verified": "2026-09-24T23:57:12",
       "condition": "used"
     },
     {
@@ -162,7 +183,18 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9d53964d97b4.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-UANpju21RVKQm099OqGQgQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-UANpju21RVKQm099OqGQgQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:33:31",
+      "last_verified": "2026-09-24T23:58:09",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordF-150Lariat",
+      "vin": "1FTFW1E81NFB79974",
+      "stock": "P14118",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/6701d139aaf7.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-D0BTKxIdTYmINwd2KOSHEAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-D0BTKxIdTYmINwd2KOSHEAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:49:20",
       "condition": "used"
     },
     {
@@ -174,6 +206,17 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:33:46",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordF-150Lariat",
+      "vin": "1FTEW1EP3NFB97315",
+      "stock": "P14098",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/ec9a52171959.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:49:37",
       "condition": "used"
     },
     {
@@ -209,6 +252,17 @@
       "condition": "used"
     },
     {
+      "name": "Used2022FordMustangMach 1",
+      "vin": "1FA6P8R07N5552814",
+      "stock": "26M2168",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/a0c192cdf6c8.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:49:51",
+      "condition": "used"
+    },
+    {
       "name": "Used2022LincolnNautilusReserve",
       "vin": "2LMPJ8K95NBL15775",
       "stock": "P14116",
@@ -220,16 +274,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2023AudiQ4 e-tron",
-      "vin": "WA1G2AFZXPP038772",
-      "stock": "26ME018",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9a71f7b93287.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-audi-q4-e-tron-JQ3ZiNkhSwuF3DEeL7YVpwvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-audi-q4-e-tron-JQ3ZiNkhSwuF3DEeL7YVpwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:35:05",
-      "condition": "used"
-    },
-    {
       "name": "Used2023FordBroncoOuter Banks",
       "vin": "1FMEE5BP9PLB43032",
       "stock": "P14112",
@@ -237,6 +281,28 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:35:20",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordF-150Lariat",
+      "vin": "1FTEW1EP0PFC72460",
+      "stock": "P14052",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/5b0416a4fba7.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-lariat-HHwPCxAGTjGUxZeki4NsBAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-lariat-HHwPCxAGTjGUxZeki4NsBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:50:06",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordF-150Platinum",
+      "vin": "1FTFW1ED9PFA59971",
+      "stock": "P14078",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9535b5efd753.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:50:23",
       "condition": "used"
     },
     {
@@ -262,6 +328,17 @@
       "condition": "used"
     },
     {
+      "name": "Used2023FordF-150XLT",
+      "vin": "1FTFW1E5XPKF06761",
+      "stock": "P14088",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/1e8065dc83f5.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:50:39",
+      "condition": "used"
+    },
+    {
       "name": "Used2023FordMaverickXLT",
       "vin": "3FTTW8F93PRA15280",
       "stock": "P14100",
@@ -270,6 +347,28 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:36:07",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordSuper Duty F-350 SRWLariat",
+      "vin": "1FT8W3BT3PED50794",
+      "stock": "P14082",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/58a2fb6a9cd2.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:50:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordTransit Cargo Van",
+      "vin": "1FTBW1Y83PKB91337",
+      "stock": "26EX646",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/f8a9d176a8bd.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:51:09",
       "condition": "used"
     },
     {
@@ -294,6 +393,17 @@
       "condition": "used"
     },
     {
+      "name": "Used2023LincolnNavigatorReserve",
+      "vin": "5LMJJ2LG0PEL08295",
+      "stock": "25NA463",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9879d0884320.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:51:25",
+      "condition": "used"
+    },
+    {
       "name": "Used2023MazdaMX-30 EVGT",
       "vin": "JM1DRADB9P0200460",
       "stock": "26ME410",
@@ -301,6 +411,50 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:36:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5LD3RFA54343",
+      "stock": "25F5785",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/22c3289349ad.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-lariat-n9keY0XpQZah0nPSspvM2wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-lariat-n9keY0XpQZah0nPSspvM2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:51:41",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordF-150XLT",
+      "vin": "1FTEW3LP2RFB45694",
+      "stock": "P14096",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/e73a476f95cb.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-xlt-2cNatJsWQZO87UKg0l6HZQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-xlt-2cNatJsWQZO87UKg0l6HZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:51:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024LincolnNautilusReserve",
+      "vin": "5LMPJ8KA4RJ873721",
+      "stock": "P13757",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/b7afd99dbafb.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-lincoln-nautilus-reserve-Lw2dlzD0TSyIa5hidfUo1gvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-lincoln-nautilus-reserve-Lw2dlzD0TSyIa5hidfUo1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:52:11",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordF-150Lariat",
+      "vin": "1FTFW5LD0SFC25054",
+      "stock": "P14047",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/66070851d602.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-f-150-lariat-NqXXsdhDR5Cn5ud2I4Ygtwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-f-150-lariat-NqXXsdhDR5Cn5ud2I4Ygtwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:52:27",
       "condition": "used"
     },
     {
@@ -312,6 +466,93 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:37:12",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordMustangGT Premium",
+      "vin": "1FA6P8CF9S5402826",
+      "stock": "26M2551",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/5004516b0e4a.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:52:42",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordMustang Mach-ESelect",
+      "vin": "3FMTK1S50SMA15616",
+      "stock": "P14109",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/e1ef8cde2859.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:52:55",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN0TRE86423",
+      "stock": "26BS642",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/8edf207c4f4a.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:53:10",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordBronco SportOuter Banks",
+      "vin": "3FMCR9CN0TRE19769",
+      "stock": "26BS976",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/679add7b15dd.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:53:24",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026FordF-150Lariat",
+      "vin": "1FTFW5LD5TFA12165",
+      "stock": "P14006",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/3c7ba8bfbd56.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ZrkpcsvyRlyhmZHQx4Rqiwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ZrkpcsvyRlyhmZHQx4Rqiwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:53:39",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordMaverickXL",
+      "vin": "3FTTW8BA2TRB27093",
+      "stock": "26MA709",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/3b2750abdc9e.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:53:53",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordMaverickXL",
+      "vin": "3FTTW8BA3TRB29158",
+      "stock": "26MA915",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/1d66c176c359.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:54:10",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordMustangEcoBoost",
+      "vin": "1FA6P8TH5T5110853",
+      "stock": "26M0853",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/2229f074284e.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:54:27",
       "condition": "used"
     },
     {
