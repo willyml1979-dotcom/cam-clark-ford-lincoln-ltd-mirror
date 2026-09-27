@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-09-27T01:24:26",
-  "vehicle_count": 263,
+  "generated_at": "2026-09-27T01:33:01",
+  "vehicle_count": 261,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -917,6 +917,17 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TFC25746",
+      "stock": "26F5746",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/e99830a45bcf.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-VNKfWJQoR86gdvVuUwH8dAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-VNKfWJQoR86gdvVuUwH8dAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:28:06",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5LD4TFB79729",
       "stock": "26F9729",
       "color": "White",
@@ -994,13 +1005,13 @@
     },
     {
       "name": "New2026FordF-150Lariat",
-      "vin": "1FTFW5LD9TFB68581",
-      "stock": "26F8581",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/bd5495d3b1c5.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ooEUQ2tvRiyDmp2Sgzqewgvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ooEUQ2tvRiyDmp2Sgzqewgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:10:33",
+      "vin": "1FTFW5L81TFC30221",
+      "stock": "26F0221",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/6071ee35eb93.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-visdJ0OuTEGdzf04HrBfmgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-visdJ0OuTEGdzf04HrBfmgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:28:22",
       "condition": "new"
     },
     {
@@ -1012,17 +1023,6 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-MfRzZGIyQCW6T4l3ip0mJgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-MfRzZGIyQCW6T4l3ip0mJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:10:47",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150Platinum",
-      "vin": "1FTFW7L87TFA90655",
-      "stock": "26F0655",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/2940b3db71c8.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-QRBpFpyoTROyA0uXrAlFngvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-QRBpFpyoTROyA0uXrAlFngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:11:02",
       "condition": "new"
     },
     {
@@ -1342,17 +1342,6 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-7PhW8zURQByFv98YBrTyDAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-7PhW8zURQByFv98YBrTyDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:18:43",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150XLT",
-      "vin": "1FTFW3L89TKE55322",
-      "stock": "26F5322",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/29c13e37fd07.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-8lLCVuW9RMWnvcY19IxqQAvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-8lLCVuW9RMWnvcY19IxqQAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:18:59",
       "condition": "new"
     },
     {
@@ -1731,17 +1720,6 @@
     },
     {
       "name": "New2026FordF-150XLT",
-      "vin": "1FTFW3L88TKE68708",
-      "stock": "26F8708",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/40c6bd17134f.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-wGrLompUT1GbajMjqBJbowvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-wGrLompUT1GbajMjqBJbowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:28:11",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L8XTFA47694",
       "stock": "26F7694",
       "color": "White",
@@ -1946,6 +1924,16 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-nrO4MZLQR4WqdO3RlogsPQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-nrO4MZLQR4WqdO3RlogsPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:30:31",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordMustangGT Premium",
+      "vin": "1FA6P8CF5T5414182",
+      "stock": "26M4182",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/a3df58b6b2da.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-rUw36MbcSHSfMBSpyzOvnQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-rUw36MbcSHSfMBSpyzOvnQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:28:38",
       "condition": "new"
     },
     {
@@ -2173,7 +2161,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/61492dcd1671.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-8Fv2ki7kTfiF2CeCsbTmiwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-8Fv2ki7kTfiF2CeCsbTmiwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:42:42",
+      "last_verified": "2026-09-27T01:29:10",
       "condition": "new"
     },
     {
@@ -2184,7 +2172,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/fea32dd06a19.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-D3QTrRvgQAa8l6kgcL4Zigvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-D3QTrRvgQAa8l6kgcL4Zigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:42:57",
+      "last_verified": "2026-09-27T01:29:26",
       "condition": "new"
     },
     {
@@ -2206,7 +2194,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/b2bf7edc334e.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-SkNGCvVTRsO6HYiCkqobqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-SkNGCvVTRsO6HYiCkqobqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:43:12",
+      "last_verified": "2026-09-27T01:29:40",
       "condition": "new"
     },
     {
@@ -2217,7 +2205,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/f03cff67db97.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-beISTLe6QG6PTQ8ci5y7HQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-beISTLe6QG6PTQ8ci5y7HQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:43:29",
+      "last_verified": "2026-09-27T01:29:56",
       "condition": "new"
     },
     {
@@ -2228,7 +2216,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/aa8585daf3ab.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-gOr94rsvR0O19Ps8pT114wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-gOr94rsvR0O19Ps8pT114wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:43:46",
+      "last_verified": "2026-09-27T01:30:13",
       "condition": "new"
     },
     {
@@ -2239,7 +2227,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/f9b7b239478d.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-pKzMVjZMTBSnRhgXDkwhawvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-pKzMVjZMTBSnRhgXDkwhawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:44:02",
+      "last_verified": "2026-09-27T01:30:27",
       "condition": "new"
     },
     {
@@ -2249,7 +2237,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/750ddcbd4993.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-qAsduCcWTXykRuoU8lNOxQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-qAsduCcWTXykRuoU8lNOxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:44:19",
+      "last_verified": "2026-09-27T01:30:43",
       "condition": "new"
     },
     {
@@ -2260,7 +2248,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/bb7da4fecee3.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-riZKiLqfR9inOyEycabmlgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-riZKiLqfR9inOyEycabmlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:44:36",
+      "last_verified": "2026-09-27T01:31:00",
       "condition": "new"
     },
     {
@@ -2271,7 +2259,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/4deac89499fd.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-uwmaE7t3SImhfyKbhoyE9Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-uwmaE7t3SImhfyKbhoyE9Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:44:52",
+      "last_verified": "2026-09-27T01:31:16",
       "condition": "new"
     },
     {
@@ -2282,7 +2270,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/99ea66947c1c.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-xX9cbWTkTu6DDsmnBLeNwgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-xX9cbWTkTu6DDsmnBLeNwgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:45:07",
+      "last_verified": "2026-09-27T01:31:33",
       "condition": "new"
     },
     {
@@ -2380,7 +2368,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/29ba4f4f3829.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-7uWyXL6gSI2NRDL7X0sIUAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-7uWyXL6gSI2NRDL7X0sIUAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:45:24",
+      "last_verified": "2026-09-27T01:31:49",
       "condition": "new"
     },
     {
@@ -2402,7 +2390,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/526b04013228.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-GxYWTDK2QRiEsqxBJzxxXwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-GxYWTDK2QRiEsqxBJzxxXwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:45:40",
+      "last_verified": "2026-09-27T01:32:06",
       "condition": "new"
     },
     {
@@ -2435,7 +2423,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/da42a514ce3f.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-UhthZn2QS9mKlDazZr6Iugvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-UhthZn2QS9mKlDazZr6Iugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:45:57",
+      "last_verified": "2026-09-27T01:32:21",
       "condition": "new"
     },
     {
@@ -2457,7 +2445,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/9344e73ef46b.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-aJEdHNpRRzKhiGyB7mOTEwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-aJEdHNpRRzKhiGyB7mOTEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:46:13",
+      "last_verified": "2026-09-27T01:32:38",
       "condition": "new"
     },
     {
@@ -2468,7 +2456,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/333e5c9d3207.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-bqFdz35wSBqxQg2b3qWWBAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-bqFdz35wSBqxQg2b3qWWBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:46:28",
+      "last_verified": "2026-09-27T01:32:55",
       "condition": "new"
     },
     {
@@ -2502,28 +2490,6 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-r4AvNGnZSU2QcLJSDe0h4wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-r4AvNGnZSU2QcLJSDe0h4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:39:42",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordSuper Duty F-350 SRWLariat",
-      "vin": "1FT8W3BT0TEE31200",
-      "stock": "26F1200",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/3154cd56c3da.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-350-srw-lariat-9Db7FaaSQAmfyG2wpPrRtgvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-350-srw-lariat-9Db7FaaSQAmfyG2wpPrRtgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:39:57",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordSuper Duty F-350 SRWPlatinum",
-      "vin": "1FT8W3BM9TEE05039",
-      "stock": "26F5039",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/43a004988b12.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-350-srw-platinum-cmh0nHD0Qjyl0JwDqsvkwQvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-350-srw-platinum-cmh0nHD0Qjyl0JwDqsvkwQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:40:11",
       "condition": "new"
     },
     {
@@ -2732,6 +2698,17 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-srw-platinum-uDO4J4piTwqhrulz5b4EWgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-srw-platinum-uDO4J4piTwqhrulz5b4EWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:45:02",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-450 DRWKing Ranch",
+      "vin": "1FT8W4DM1VEC31067",
+      "stock": "27F1067",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/3459be3cd191.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:28:54",
       "condition": "new"
     },
     {
