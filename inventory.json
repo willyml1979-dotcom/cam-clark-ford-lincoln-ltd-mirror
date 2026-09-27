@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-09-25T00:52:24",
-  "vehicle_count": 261,
+  "generated_at": "2026-09-27T01:24:26",
+  "vehicle_count": 263,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/37e6083e65d9.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:48:49",
+      "last_verified": "2026-09-27T01:23:57",
       "condition": "used"
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/4b12144bcdf0.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:49:04",
+      "last_verified": "2026-09-27T01:24:14",
       "condition": "used"
     },
     {
@@ -205,7 +205,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/ed39698c3bd2.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:33:46",
+      "last_verified": "2026-09-27T01:20:36",
       "condition": "used"
     },
     {
@@ -226,7 +226,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/4c6e8a2ca454.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-9OjKxJknT0qFLUEpn20NnAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-9OjKxJknT0qFLUEpn20NnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:34:01",
+      "last_verified": "2026-09-27T01:20:51",
       "condition": "used"
     },
     {
@@ -237,7 +237,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/7e11850d4e8c.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-XW3ONzoWR1Cr7CcPDlbElQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-XW3ONzoWR1Cr7CcPDlbElQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:34:17",
+      "last_verified": "2026-09-27T01:21:06",
       "condition": "used"
     },
     {
@@ -248,7 +248,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/c95215976a54.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-ftFpzFIiSlKn7xcPdgZxawvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-ftFpzFIiSlKn7xcPdgZxawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:34:34",
+      "last_verified": "2026-09-27T01:21:22",
       "condition": "used"
     },
     {
@@ -270,7 +270,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/7ad26f4b0f31.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-lincoln-nautilus-reserve-yKxHi0gDSUiwVAEisV1D1Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-lincoln-nautilus-reserve-yKxHi0gDSUiwVAEisV1D1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:34:50",
+      "last_verified": "2026-09-27T01:21:37",
       "condition": "used"
     },
     {
@@ -280,7 +280,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/1d8c052263ee.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:35:20",
+      "last_verified": "2026-09-27T01:21:52",
       "condition": "used"
     },
     {
@@ -313,7 +313,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/2cede163be30.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-RZiwKCGwRMyFeWJ9LLvSDgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-RZiwKCGwRMyFeWJ9LLvSDgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:35:34",
+      "last_verified": "2026-09-27T01:22:07",
       "condition": "used"
     },
     {
@@ -324,7 +324,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/8847233ea9b6.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-vDe94X1lTre4Ki8xXqbJjwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-vDe94X1lTre4Ki8xXqbJjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:35:51",
+      "last_verified": "2026-09-27T01:22:22",
       "condition": "used"
     },
     {
@@ -346,7 +346,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/cefee4a184b1.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:36:07",
+      "last_verified": "2026-09-27T01:22:36",
       "condition": "used"
     },
     {
@@ -358,6 +358,17 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:50:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordSuper Duty F-350 SRWLariat",
+      "vin": "1FT8W3BT3PED23949",
+      "stock": "P14120",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/3823837baec0.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-qj93a87KQz6u4FZ6tdp7NAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-qj93a87KQz6u4FZ6tdp7NAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:19:49",
       "condition": "used"
     },
     {
@@ -378,7 +389,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/0f35c14ac178.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-hyundai-elantra-hybrid-luxury-sVNRUhoIRLiAPHJ8gkCsHwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-hyundai-elantra-hybrid-luxury-sVNRUhoIRLiAPHJ8gkCsHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:36:24",
+      "last_verified": "2026-09-27T01:22:52",
       "condition": "used"
     },
     {
@@ -389,7 +400,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/902c6a66d43d.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-corsair-standard-ax5JuNYuQ12Ts12t5tCpdQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-corsair-standard-ax5JuNYuQ12Ts12t5tCpdQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:36:40",
+      "last_verified": "2026-09-27T01:23:07",
       "condition": "used"
     },
     {
@@ -410,7 +421,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/2fae24234799.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:36:55",
+      "last_verified": "2026-09-27T01:23:23",
       "condition": "used"
     },
     {
@@ -425,14 +436,14 @@
       "condition": "used"
     },
     {
-      "name": "Used2024FordF-150XLT",
-      "vin": "1FTEW3LP2RFB45694",
-      "stock": "P14096",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/e73a476f95cb.html",
-      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-xlt-2cNatJsWQZO87UKg0l6HZQvdp",
-      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-xlt-2cNatJsWQZO87UKg0l6HZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:51:55",
+      "name": "Used2024FordRangerXLT",
+      "vin": "1FTER4HP9RLE40945",
+      "stock": "P14115",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/7170fafe880c.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:20:04",
       "condition": "used"
     },
     {
@@ -465,7 +476,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/720ae6e72039.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T23:37:12",
+      "last_verified": "2026-09-27T01:23:41",
       "condition": "used"
     },
     {
@@ -553,6 +564,16 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:54:27",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026JeepWranglerRubicon X",
+      "vin": "1C4RJXFG7TW187403",
+      "stock": "P14028A",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/f8b5756a2731.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-jeep-wrangler-rubicon-x-xskv5oE2TryDDRrmNnRIvQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-jeep-wrangler-rubicon-x-xskv5oE2TryDDRrmNnRIvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:20:20",
       "condition": "used"
     },
     {
