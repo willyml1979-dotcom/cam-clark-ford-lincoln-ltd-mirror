@@ -1,6 +1,6 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-09-27T01:33:01",
+  "generated_at": "2026-10-08T14:35:00",
   "vehicle_count": 261,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2007-toyota-fj-cruiser-9uC3xCHBSQuuiu8Ypfs9xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:23:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2016SubaruForesteri Convenience",
@@ -23,7 +25,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2016-subaru-forester-i-convenience-Cj36VYKZTHaC2gMwZL9dwQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2016-subaru-forester-i-convenience-Cj36VYKZTHaC2gMwZL9dwQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:29:54",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017AudiA4Progressiv",
@@ -33,7 +37,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2017-audi-a4-progressiv-REfOksDKQzea8oQp6YuDwwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2017-audi-a4-progressiv-REfOksDKQzea8oQp6YuDwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2018Mercedes-BenzGLEGLE 400",
@@ -43,7 +49,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2018-mercedes-benz-gle-gle-400-L2WW79jMTCyq09FVTp0uWwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2018-mercedes-benz-gle-gle-400-L2WW79jMTCyq09FVTp0uWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:24",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2019HondaPilotTouring 8-Passenger",
@@ -53,7 +61,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-honda-pilot-touring-8-passenger-YiRXC9tZQICxlATseLLrKwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-honda-pilot-touring-8-passenger-YiRXC9tZQICxlATseLLrKwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:40",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2019HyundaiSanta FePreferred",
@@ -64,7 +74,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2020FordExplorerLimited",
@@ -75,7 +87,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-explorer-limited-SssOBgUMQyaZiWxgOzI4vgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:24:14",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2020FordF-150Lariat",
@@ -86,7 +100,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-f-150-lariat-D5N1CowKQEGt0k6lNo9B2wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-f-150-lariat-D5N1CowKQEGt0k6lNo9B2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:31:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2020FordF-150Lariat",
@@ -97,7 +113,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-f-150-lariat-jcx05ENLR3uFFA3ZaUhoaAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-f-150-lariat-jcx05ENLR3uFFA3ZaUhoaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:31:25",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2020FordTransit Connect VanXL",
@@ -108,7 +126,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-transit-connect-van-xl-cnKGGjU2SQ2qJLUkhMvUlgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2020-ford-transit-connect-van-xl-cnKGGjU2SQ2qJLUkhMvUlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:31:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2021FordExplorerST",
@@ -118,7 +138,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2021-ford-explorer-st-xojDebqxRS2qcGof8kINVQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2021-ford-explorer-st-xojDebqxRS2qcGof8kINVQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:31:56",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordBroncoBadlands",
@@ -129,7 +151,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-badlands-a0kO6ScVQpuJR7WiNK8uIQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-badlands-a0kO6ScVQpuJR7WiNK8uIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:32:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordBroncoBig Bend",
@@ -140,7 +164,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-big-bend-0VimW44EQYGg9cjYwi2vaQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-big-bend-0VimW44EQYGg9cjYwi2vaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:57:12",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordBroncoOuter Banks",
@@ -151,7 +177,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-outer-banks-dTB6G5DUQjSrHcnKrGhp3Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-outer-banks-dTB6G5DUQjSrHcnKrGhp3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:32:43",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordEscapeSEL Plug-In Hybrid",
@@ -162,7 +190,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-sel-plug-in-hybrid-AbEfZMX2S7CJfF2brU9h1gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-sel-plug-in-hybrid-AbEfZMX2S7CJfF2brU9h1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:32:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordEscapeTitanium",
@@ -173,7 +203,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-titanium-3tjEn1TxRlakhTU9k8qgaQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-titanium-3tjEn1TxRlakhTU9k8qgaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:33:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordExplorerLimited",
@@ -184,7 +216,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-UANpju21RVKQm099OqGQgQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-UANpju21RVKQm099OqGQgQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:58:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150Lariat",
@@ -195,7 +229,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-D0BTKxIdTYmINwd2KOSHEAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-D0BTKxIdTYmINwd2KOSHEAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:49:20",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150Lariat",
@@ -206,7 +242,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-HiB25z4AQpClBEgc5QywNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:20:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150Lariat",
@@ -217,7 +255,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:49:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150XLT",
@@ -227,7 +267,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-9OjKxJknT0qFLUEpn20NnAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-9OjKxJknT0qFLUEpn20NnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:20:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150XLT",
@@ -238,7 +280,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-XW3ONzoWR1Cr7CcPDlbElQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-XW3ONzoWR1Cr7CcPDlbElQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:21:06",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordF-150XLT",
@@ -249,7 +293,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-ftFpzFIiSlKn7xcPdgZxawvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-xlt-ftFpzFIiSlKn7xcPdgZxawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:21:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordMustangMach 1",
@@ -260,7 +306,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:49:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022LincolnNautilusReserve",
@@ -271,7 +319,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-lincoln-nautilus-reserve-yKxHi0gDSUiwVAEisV1D1Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-lincoln-nautilus-reserve-yKxHi0gDSUiwVAEisV1D1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:21:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordBroncoOuter Banks",
@@ -281,7 +331,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-bronco-outer-banks-k2l4vwBHRVaDWqb9cfjVJwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:21:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150Lariat",
@@ -292,7 +344,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-lariat-HHwPCxAGTjGUxZeki4NsBAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-lariat-HHwPCxAGTjGUxZeki4NsBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:50:06",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150Platinum",
@@ -303,7 +357,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:50:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150XLT",
@@ -314,7 +370,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-RZiwKCGwRMyFeWJ9LLvSDgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-RZiwKCGwRMyFeWJ9LLvSDgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:22:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150XLT",
@@ -325,7 +383,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-vDe94X1lTre4Ki8xXqbJjwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-vDe94X1lTre4Ki8xXqbJjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:22:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150XLT",
@@ -336,7 +396,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:50:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordMaverickXLT",
@@ -347,7 +409,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-F38XXlYcRFuPDJFZxmptPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:22:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordSuper Duty F-350 SRWLariat",
@@ -358,7 +422,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:50:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordSuper Duty F-350 SRWLariat",
@@ -369,7 +435,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-qj93a87KQz6u4FZ6tdp7NAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-qj93a87KQz6u4FZ6tdp7NAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:19:49",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023FordTransit Cargo Van",
@@ -380,7 +448,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:51:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023HyundaiElantra HybridLuxury",
@@ -390,7 +460,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-hyundai-elantra-hybrid-luxury-sVNRUhoIRLiAPHJ8gkCsHwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-hyundai-elantra-hybrid-luxury-sVNRUhoIRLiAPHJ8gkCsHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:22:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023LincolnCorsairStandard",
@@ -401,7 +473,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-corsair-standard-ax5JuNYuQ12Ts12t5tCpdQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-corsair-standard-ax5JuNYuQ12Ts12t5tCpdQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:23:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023LincolnNavigatorReserve",
@@ -412,7 +486,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:51:25",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023MazdaMX-30 EVGT",
@@ -422,7 +498,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-mazda-mx-30-ev-gt-YGKD6wrFSoeOzTYOlr4MrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:23:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024FordF-150Lariat",
@@ -433,7 +511,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-lariat-n9keY0XpQZah0nPSspvM2wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-f-150-lariat-n9keY0XpQZah0nPSspvM2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:51:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024FordRangerXLT",
@@ -444,7 +524,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:20:04",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024LincolnNautilusReserve",
@@ -455,7 +537,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-lincoln-nautilus-reserve-Lw2dlzD0TSyIa5hidfUo1gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-lincoln-nautilus-reserve-Lw2dlzD0TSyIa5hidfUo1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:52:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025FordF-150Lariat",
@@ -466,7 +550,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-f-150-lariat-NqXXsdhDR5Cn5ud2I4Ygtwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-f-150-lariat-NqXXsdhDR5Cn5ud2I4Ygtwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:52:27",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025FordMaverickTremor",
@@ -477,7 +563,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-maverick-tremor-jMhFU8LDQXCcvNZfJwIPCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:23:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025FordMustangGT Premium",
@@ -488,7 +576,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:52:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025FordMustang Mach-ESelect",
@@ -498,7 +588,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:52:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportBig Bend",
@@ -509,7 +601,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:53:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportOuter Banks",
@@ -520,7 +614,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:53:24",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026FordF-150Lariat",
@@ -531,7 +627,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ZrkpcsvyRlyhmZHQx4Rqiwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-ZrkpcsvyRlyhmZHQx4Rqiwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:53:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXL",
@@ -542,7 +640,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:53:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXL",
@@ -553,7 +653,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:54:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangEcoBoost",
@@ -564,7 +666,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:54:27",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026JeepWranglerRubicon X",
@@ -574,7 +678,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-jeep-wrangler-rubicon-x-xskv5oE2TryDDRrmNnRIvQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-jeep-wrangler-rubicon-x-xskv5oE2TryDDRrmNnRIvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:20:20",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2025FordE-Transit Cargo Van",
@@ -585,7 +691,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-e-transit-cargo-van-F4cQXwshSfuzxXOtwG8aPwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-e-transit-cargo-van-F4cQXwshSfuzxXOtwG8aPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:01:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025FordMustang Mach-ESelect",
@@ -595,7 +703,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:02:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2025FordRangerLARIAT",
@@ -606,7 +716,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-ranger-lariat-ZEdDJq9uQgGa2n0Fv0zq4gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-ranger-lariat-ZEdDJq9uQgGa2n0Fv0zq4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:02:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2025LincolnCorsairGrand Touring",
@@ -617,7 +729,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-corsair-grand-touring-QIA5xQZ9SOi0A2Me2ti0Jgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-corsair-grand-touring-QIA5xQZ9SOi0A2Me2ti0Jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:02:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2025LincolnCorsairReserve",
@@ -628,7 +742,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-corsair-reserve-IOQkKB3VTsCjJgf3N4LkHwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-corsair-reserve-IOQkKB3VTsCjJgf3N4LkHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:02:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2025LincolnNavigator LReserve",
@@ -639,7 +755,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-navigator-l-reserve-eUHTqCdxQnm1mq7etzsoFAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-lincoln-navigator-l-reserve-eUHTqCdxQnm1mq7etzsoFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:03:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBadlands",
@@ -650,7 +768,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-RxCzkfP8SmKGxI5W1U6BZAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-RxCzkfP8SmKGxI5W1U6BZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:03:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBadlands",
@@ -661,7 +781,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-uR4N3C18T26b8wFUblGDYAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-uR4N3C18T26b8wFUblGDYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:03:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBadlands",
@@ -672,7 +794,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-z5PbMuJdS2q3y1JmeN2fvAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-badlands-z5PbMuJdS2q3y1JmeN2fvAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:04:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBase",
@@ -683,7 +807,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-base-uTKYALKkQSuXdpspb45BUwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-base-uTKYALKkQSuXdpspb45BUwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:04:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBig Bend",
@@ -694,7 +820,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-EiDVnsVESWqp8qYhsz9Ypwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-EiDVnsVESWqp8qYhsz9Ypwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:04:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBig Bend",
@@ -705,7 +833,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-M3VLSu7hRuCsDRoHsbBetwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-M3VLSu7hRuCsDRoHsbBetwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:04:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBroncoBig Bend",
@@ -716,7 +846,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-MtsyrT6gRKuRqZJZQolMFQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-big-bend-MtsyrT6gRKuRqZJZQolMFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:05:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportBadlands",
@@ -726,7 +858,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-badlands-sOHD4OO8STCHEkMskgZS1Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-badlands-sOHD4OO8STCHEkMskgZS1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:05:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportBig Bend",
@@ -737,7 +871,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-eLTNOyR8TKKbiL2mmBcCqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:48:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportOuter Banks",
@@ -748,7 +884,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-1MFeoyCZQV6jxAQMhOzOxAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-1MFeoyCZQV6jxAQMhOzOxAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:48:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportOuter Banks",
@@ -759,7 +897,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-RZBRM0hIRrifyVpllfeL8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:49:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco SportOuter Banks",
@@ -770,7 +910,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-Z0OfRNvpTWuA2WT24ODvLwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-outer-banks-Z0OfRNvpTWuA2WT24ODvLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:49:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExpeditionTremor",
@@ -781,7 +923,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-expedition-tremor-t43gIrPYTSW0evrLcptSuAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-expedition-tremor-t43gIrPYTSW0evrLcptSuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:05:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerActive w/200A Pkg",
@@ -792,7 +936,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-active-w-200a-pkg-4wflkhduRzaBTu2boqj5nAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-active-w-200a-pkg-4wflkhduRzaBTu2boqj5nAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:05:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerActive w/200A Pkg",
@@ -803,7 +949,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-active-w-200a-pkg-YOHDdhOYTmOOqzC3wU5anwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-active-w-200a-pkg-YOHDdhOYTmOOqzC3wU5anwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:05:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerST-Line",
@@ -814,7 +962,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-6qaS0heWQFiwQxpiwilSvQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-6qaS0heWQFiwQxpiwilSvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:06:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerST-Line",
@@ -825,7 +975,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-co1pVONsT2mTkSR8KSyXDgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-co1pVONsT2mTkSR8KSyXDgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:06:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerST-Line",
@@ -836,7 +988,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-pKNrqsjfRrWXyMB76vla7gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-line-pKNrqsjfRrWXyMB76vla7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:06:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerST",
@@ -847,7 +1001,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-v4eyIbclSlmTuLEjJBK1zQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-explorer-st-v4eyIbclSlmTuLEjJBK1zQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:07:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -858,7 +1014,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-4LBL9lLZTw2wgx47pdgeegvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-4LBL9lLZTw2wgx47pdgeegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:07:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -869,7 +1027,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-GyEC3RvlSYmZNDbO7r9DkAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-GyEC3RvlSYmZNDbO7r9DkAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:07:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -880,7 +1040,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-IEbA3ASqSxiXqNTfBWszywvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-IEbA3ASqSxiXqNTfBWszywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:07:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -891,7 +1053,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-LYh0HbNKRrCKZHeWLvzekQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-LYh0HbNKRrCKZHeWLvzekQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:08:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -902,7 +1066,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-Le7WG4vbQLO8MscGwRj0Jgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-Le7WG4vbQLO8MscGwRj0Jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:08:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -913,7 +1079,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-R2MSReReQoCb15vlagXKvwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-R2MSReReQoCb15vlagXKvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:08:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -924,7 +1092,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-VNKfWJQoR86gdvVuUwH8dAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-VNKfWJQoR86gdvVuUwH8dAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:28:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -935,7 +1105,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-XsUFvkr7RVuUSFZE1G2jFAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-XsUFvkr7RVuUSFZE1G2jFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:08:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -946,7 +1118,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-bRCkcxziTVaLeCKBdS8aKwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-bRCkcxziTVaLeCKBdS8aKwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:09:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -957,7 +1131,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-f0wOSNqNQQW9ShnJxHO5Tgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-f0wOSNqNQQW9ShnJxHO5Tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:09:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -968,7 +1144,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-h5YZ2Is8SXWSfoRdUYbY1Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-h5YZ2Is8SXWSfoRdUYbY1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:09:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -979,7 +1157,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-hXyZxc2hTfmnjRF0Tqg38Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-hXyZxc2hTfmnjRF0Tqg38Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:09:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -990,7 +1170,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-jusYlHs4TcylDBGVKaIP8Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-jusYlHs4TcylDBGVKaIP8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:10:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -1001,7 +1183,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-kzhhAiQ8QqyV7tX0G5NJJAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-kzhhAiQ8QqyV7tX0G5NJJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:10:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -1012,7 +1196,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-visdJ0OuTEGdzf04HrBfmgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-visdJ0OuTEGdzf04HrBfmgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:28:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Platinum",
@@ -1023,7 +1209,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-MfRzZGIyQCW6T4l3ip0mJgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-MfRzZGIyQCW6T4l3ip0mJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:10:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Platinum",
@@ -1034,7 +1222,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:11:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Raptor",
@@ -1045,7 +1235,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-raptor-xSSrxvD8RFqxqfD5AgKU5wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-raptor-xSSrxvD8RFqxqfD5AgKU5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:11:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1056,7 +1248,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-6ObHcMd0RIWM0THMLUehLQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-6ObHcMd0RIWM0THMLUehLQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:11:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1067,7 +1261,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-6RjPkqjPQnaxtNtZYxUHlgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-6RjPkqjPQnaxtNtZYxUHlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:12:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1078,7 +1274,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-H6KtkucjShyfsSt1sc9j9Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-H6KtkucjShyfsSt1sc9j9Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:12:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1089,7 +1287,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-MvpDcSgcReemscgEFqKS7Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-MvpDcSgcReemscgEFqKS7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:12:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1100,7 +1300,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-UxrOzms1RJaYWec0PuCuEwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-UxrOzms1RJaYWec0PuCuEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:12:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1111,7 +1313,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-e0Gam4ghTfqQfwwbTTvO4wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-e0Gam4ghTfqQfwwbTTvO4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:13:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1122,7 +1326,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-mMaP7JVZSfeTCpOkf1KP4wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-mMaP7JVZSfeTCpOkf1KP4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:13:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1133,7 +1339,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-mqfa5om2Q7aDMHzcSc1NYQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-mqfa5om2Q7aDMHzcSc1NYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:13:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -1144,7 +1352,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-uq4yhGgHRBKDKTuRmVADAgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-stx-uq4yhGgHRBKDKTuRmVADAgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:13:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1155,7 +1365,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-0HWttALCToGTFVQJJViFaAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-0HWttALCToGTFVQJJViFaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:14:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1166,7 +1378,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-243Ir6x7RSq21EYdKN2nlQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-243Ir6x7RSq21EYdKN2nlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:14:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1177,7 +1391,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-402vyo8cQ86nOvbPbTJiEgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-402vyo8cQ86nOvbPbTJiEgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:14:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1188,7 +1404,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-DZNEgXucRMyEV7ECaWUAjAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-DZNEgXucRMyEV7ECaWUAjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:14:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1199,7 +1417,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-JvpZ4QH3S6WTkC4RfGx4FQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-JvpZ4QH3S6WTkC4RfGx4FQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:15:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1210,7 +1430,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-bxMXkRxCTP6w5ZkeIlSqVwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-bxMXkRxCTP6w5ZkeIlSqVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:15:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1221,7 +1443,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-swNU4FG1QGiY2LHm3ydC3wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-swNU4FG1QGiY2LHm3ydC3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:15:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1232,7 +1456,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-vACkroepQsyIZ8eEAmhDswvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-vACkroepQsyIZ8eEAmhDswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:16:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -1243,7 +1469,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-zBWM29JJT1qNe3fvWszYfQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-zBWM29JJT1qNe3fvWszYfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:16:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1254,7 +1482,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-1fQd8EJvQ0SP952nLW81Hwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-1fQd8EJvQ0SP952nLW81Hwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:16:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1265,7 +1495,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-1jLJmR47TLOBjTNBJSIc0Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-1jLJmR47TLOBjTNBJSIc0Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:16:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1276,7 +1508,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-21qeXaImRXSZzHqgYbUAuQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-21qeXaImRXSZzHqgYbUAuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:17:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1287,7 +1521,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-38ojfGxYRVi0hr7uEXcAHgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-38ojfGxYRVi0hr7uEXcAHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:17:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1298,7 +1534,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-3phvfVVsQpi1yeNzGAOjewvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-3phvfVVsQpi1yeNzGAOjewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:17:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1309,7 +1547,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-3tT7OsbhQrSc28mh6JOwnwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-3tT7OsbhQrSc28mh6JOwnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:17:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1320,7 +1560,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-5FflMEinTvyHtar1DuITfQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-5FflMEinTvyHtar1DuITfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:18:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1331,7 +1573,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-5ODpWaALRs6PwpcVaVKrnQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-5ODpWaALRs6PwpcVaVKrnQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:18:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1342,7 +1586,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-7PhW8zURQByFv98YBrTyDAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-7PhW8zURQByFv98YBrTyDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:18:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1353,7 +1599,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-9EzaCrDPQAGcVABOYUhdSAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-9EzaCrDPQAGcVABOYUhdSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:19:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1364,7 +1612,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-9xWLQTBPTHSXxWXww1amyAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-9xWLQTBPTHSXxWXww1amyAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:19:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1375,7 +1625,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-E2HntIqnTLSh1jj305x94Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-E2HntIqnTLSh1jj305x94Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:19:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1386,7 +1638,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-EW8VIiBDTfKSMRbVAPC8YAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-EW8VIiBDTfKSMRbVAPC8YAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:19:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1397,7 +1651,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-GT3eP45vSjefYMk44vYM4wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-GT3eP45vSjefYMk44vYM4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:20:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1408,7 +1664,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JDs64YqVRMuwqvMNzD85ogvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JDs64YqVRMuwqvMNzD85ogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:20:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1419,7 +1677,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JJzd1CImTGKXHna6suLciwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JJzd1CImTGKXHna6suLciwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:20:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1430,7 +1690,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JoG96lyNTkWgkuVl43cfvwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-JoG96lyNTkWgkuVl43cfvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:21:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1441,7 +1703,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-MWYQwe4GRTCjuYNEGUOxigvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-MWYQwe4GRTCjuYNEGUOxigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:21:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1452,7 +1716,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-PA8JKYe1ToGXTeNqUDJcKgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-PA8JKYe1ToGXTeNqUDJcKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:21:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1463,7 +1729,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-Qd5XWJPNQW2h0xeM4cZRggvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-Qd5XWJPNQW2h0xeM4cZRggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:21:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1474,7 +1742,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-QoOovRnmRsSvuY31uKrE6gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-QoOovRnmRsSvuY31uKrE6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:21:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1485,7 +1755,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-RieVWUBcRMyCYbSlSq8F5Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-RieVWUBcRMyCYbSlSq8F5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:22:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1496,7 +1768,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-T00OgFUrSpWDTZhLESwD5gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-T00OgFUrSpWDTZhLESwD5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:22:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1507,7 +1781,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-TDzPon7qTYSXiB4rXhCfHwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-TDzPon7qTYSXiB4rXhCfHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:22:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1518,7 +1794,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ULVVSIuPT86966zWzLwbGQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ULVVSIuPT86966zWzLwbGQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:23:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1529,7 +1807,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-XDoQhslJRbycAweFhKItHwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-XDoQhslJRbycAweFhKItHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:23:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1540,7 +1820,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-XqPP36qhRcq88pOnGvPCuAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-XqPP36qhRcq88pOnGvPCuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:23:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1551,7 +1833,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ZPfABOC6TwGoN7ovjCwD2Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ZPfABOC6TwGoN7ovjCwD2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:23:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1562,7 +1846,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-dR2XGmSmQ8yGLaw3aiN3jQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-dR2XGmSmQ8yGLaw3aiN3jQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:24:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1573,7 +1859,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-dk7XmPglQ42RoFIIIwdUxwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-dk7XmPglQ42RoFIIIwdUxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:24:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1584,7 +1872,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-fgvRvx7xR6mEPFWSliHF3Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-fgvRvx7xR6mEPFWSliHF3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:24:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1595,7 +1885,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-gp6XZVvLQrOUey8g1kddRgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-gp6XZVvLQrOUey8g1kddRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:24:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1606,7 +1898,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-hE7JMJEfR5OVyvJDrS9vSgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-hE7JMJEfR5OVyvJDrS9vSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:25:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1617,7 +1911,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-hXf7O2PUQ22AVmx3h4PAeQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-hXf7O2PUQ22AVmx3h4PAeQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:25:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1628,7 +1924,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-iInAqYK3Q3uuKUg9R2omIgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-iInAqYK3Q3uuKUg9R2omIgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:25:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1639,7 +1937,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-jfa1eF8tQFWLUTROaUzahwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-jfa1eF8tQFWLUTROaUzahwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:25:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1650,7 +1950,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-jw8AxtPdQUChiMWh96nfUAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-jw8AxtPdQUChiMWh96nfUAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:26:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1661,7 +1963,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ksz2ADq5SniDHTbhVSSWFwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ksz2ADq5SniDHTbhVSSWFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:26:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1672,7 +1976,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ltoO5QRWSpKyoC6uCpv76gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-ltoO5QRWSpKyoC6uCpv76gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:26:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1683,7 +1989,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-oOWg8SnnTVa1GCAriJ8Yqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-oOWg8SnnTVa1GCAriJ8Yqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:27:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1694,7 +2002,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-r3t7zaM7RYWeSg91P8H8sAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-r3t7zaM7RYWeSg91P8H8sAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:27:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1705,7 +2015,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-rianLkrHQeKuRJP8kJTmGgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-rianLkrHQeKuRJP8kJTmGgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:27:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1716,7 +2028,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-wCtz7QP5S42ZVVg7jhbtkQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-wCtz7QP5S42ZVVg7jhbtkQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:27:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1727,7 +2041,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-x0tps02nShidJGUGjbmYcgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-x0tps02nShidJGUGjbmYcgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:28:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1738,7 +2054,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-xv9DhPPYS8Cl8sHDNMRZNQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-xv9DhPPYS8Cl8sHDNMRZNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:28:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1749,7 +2067,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-xx55GzBrRgmyIkUVt8dOBwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-xx55GzBrRgmyIkUVt8dOBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:28:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -1760,7 +2080,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-zP6LIROFRuyit1jDYK4w5gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-zP6LIROFRuyit1jDYK4w5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:29:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLARIAT",
@@ -1771,7 +2093,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lariat-4AHH1WQHQb2azGQeocxtCAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lariat-4AHH1WQHQb2azGQeocxtCAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:39:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLARIAT",
@@ -1782,7 +2106,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lariat-OgwF8VMoQtCEE5VPKgRutQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lariat-OgwF8VMoQtCEE5VPKgRutQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:49:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLobo High",
@@ -1793,7 +2119,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-high-4jwXJIvIQgCIyBzt4xWlswvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-high-4jwXJIvIQgCIyBzt4xWlswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:50:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLobo High",
@@ -1804,7 +2132,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-high-BQG7K21nQemYAFZ5h3boOAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-high-BQG7K21nQemYAFZ5h3boOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:50:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLobo Standard",
@@ -1815,7 +2145,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-standard-0hb2l2y6RU23Zc86b1XVEwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-lobo-standard-0hb2l2y6RU23Zc86b1XVEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:40:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXL",
@@ -1826,7 +2158,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-U5HLzadpTDum3E8LuS4CMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:41:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXL",
@@ -1837,7 +2171,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-ZNPNelz0RbmENYy73BkewAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-ZNPNelz0RbmENYy73BkewAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:51:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXL",
@@ -1848,7 +2184,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xl-rWLL0x3tT2aQzmtRKmP4fwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:41:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -1859,7 +2197,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xlt-8Mqqfb17Qpy4LZ74Ym46Ngvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-maverick-xlt-8Mqqfb17Qpy4LZ74Ym46Ngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:29:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangEcoBoost",
@@ -1870,7 +2210,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:51:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangEcoBoost Premium",
@@ -1881,7 +2223,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-premium-REqBci4UTaiZDrTT7UokVgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-premium-REqBci4UTaiZDrTT7UokVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:29:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangEcoBoost",
@@ -1891,7 +2235,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-rtNGF2E3TdiT1wuOn3mECwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-rtNGF2E3TdiT1wuOn3mECwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:42:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangGT",
@@ -1902,7 +2248,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-HtvH2tA8TBugYpOJpAxOLwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-HtvH2tA8TBugYpOJpAxOLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:30:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangGT Premium",
@@ -1913,7 +2261,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-VIaXoqViQzukZk7iDN0gOQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-VIaXoqViQzukZk7iDN0gOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:30:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangGT Premium",
@@ -1924,7 +2274,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-nrO4MZLQR4WqdO3RlogsPQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-nrO4MZLQR4WqdO3RlogsPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:30:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustangGT Premium",
@@ -1934,7 +2286,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-rUw36MbcSHSfMBSpyzOvnQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-gt-premium-rUw36MbcSHSfMBSpyzOvnQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:28:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EGT",
@@ -1945,7 +2299,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-gt-yvb6O5aYTkuM2FoZOHePsQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-gt-yvb6O5aYTkuM2FoZOHePsQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:30:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -1956,7 +2312,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-6Mwm0YStR0K7RolMG9sHSAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-6Mwm0YStR0K7RolMG9sHSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:31:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -1967,7 +2325,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-AP6gTXdqSZSU9DZz0ZI3vgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-AP6gTXdqSZSU9DZz0ZI3vgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:31:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -1978,7 +2338,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-DRRXtP9zQlqTMacdmMg8Lgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-DRRXtP9zQlqTMacdmMg8Lgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:31:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -1989,7 +2351,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-EUf0vWdITkulpkBqzgERogvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-EUf0vWdITkulpkBqzgERogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:31:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2000,7 +2364,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-I3R2aOl1TwKkJtFPcytq6gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-I3R2aOl1TwKkJtFPcytq6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:32:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2011,7 +2377,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-LmuftVQTTSus5g3iAA3weAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-LmuftVQTTSus5g3iAA3weAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:32:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2021,7 +2389,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-NqxjbRc7SMeLxnCWOMFK8Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-NqxjbRc7SMeLxnCWOMFK8Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:32:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2032,7 +2402,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-PHUmiALWQESgf4wEbmVabwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-PHUmiALWQESgf4wEbmVabwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:32:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2043,7 +2415,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-Pwryg5TvRyWJFGMmSgFKyAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-Pwryg5TvRyWJFGMmSgFKyAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:33:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2053,7 +2427,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-TIORn9UESziis1Y0X16v0Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-TIORn9UESziis1Y0X16v0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:33:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2064,7 +2440,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-TTHJsmNnRNue4sgqQuN2Zwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-TTHJsmNnRNue4sgqQuN2Zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:33:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2075,7 +2453,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-UALhrgAXRwqVDHPkhg1Uzwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-UALhrgAXRwqVDHPkhg1Uzwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:33:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2086,7 +2466,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-dwFS9UfXRYiWrTa8milaMgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-dwFS9UfXRYiWrTa8milaMgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:34:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2097,7 +2479,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-klqwNhPlTFCLYemruDEtIwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-klqwNhPlTFCLYemruDEtIwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:34:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2108,7 +2492,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-opOIk2uwQOa01lrh4ozH1Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-opOIk2uwQOa01lrh4ozH1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:34:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2119,7 +2505,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-qrtt7kjkQGmDvBBvgCcoiAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-qrtt7kjkQGmDvBBvgCcoiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:34:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2130,7 +2518,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-vegmGRmzTeqX1otmLrUsAAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-vegmGRmzTeqX1otmLrUsAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:35:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-EPremium",
@@ -2141,7 +2531,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-x8jLx21ARVabLRzH4AoY4gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-premium-x8jLx21ARVabLRzH4AoY4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:35:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2151,7 +2543,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-5KQAyia5TXayJoKKTCwTkwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-5KQAyia5TXayJoKKTCwTkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:42:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2162,7 +2556,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-8Fv2ki7kTfiF2CeCsbTmiwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-8Fv2ki7kTfiF2CeCsbTmiwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:29:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2173,7 +2569,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-D3QTrRvgQAa8l6kgcL4Zigvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-D3QTrRvgQAa8l6kgcL4Zigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:29:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2184,7 +2582,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-RJp33O60Qf28Fput2R96tgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-RJp33O60Qf28Fput2R96tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:35:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2195,7 +2595,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-SkNGCvVTRsO6HYiCkqobqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-SkNGCvVTRsO6HYiCkqobqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:29:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2206,7 +2608,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-beISTLe6QG6PTQ8ci5y7HQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-beISTLe6QG6PTQ8ci5y7HQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:29:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2217,7 +2621,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-gOr94rsvR0O19Ps8pT114wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-gOr94rsvR0O19Ps8pT114wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:30:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2228,7 +2634,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-pKzMVjZMTBSnRhgXDkwhawvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-pKzMVjZMTBSnRhgXDkwhawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:30:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2238,7 +2646,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-qAsduCcWTXykRuoU8lNOxQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-qAsduCcWTXykRuoU8lNOxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:30:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2249,7 +2659,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-riZKiLqfR9inOyEycabmlgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-riZKiLqfR9inOyEycabmlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:31:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2260,7 +2672,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-uwmaE7t3SImhfyKbhoyE9Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-uwmaE7t3SImhfyKbhoyE9Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:31:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordMustang Mach-ESelect",
@@ -2271,7 +2685,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-xX9cbWTkTu6DDsmnBLeNwgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-mach-e-select-xX9cbWTkTu6DDsmnBLeNwgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:31:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2282,7 +2698,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-1zkpaAHuRmizcSZuv7M5zAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-1zkpaAHuRmizcSZuv7M5zAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:36:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2293,7 +2711,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-N4yVMwvpSHqXN9WGB4fuCAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-N4yVMwvpSHqXN9WGB4fuCAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:36:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2304,7 +2724,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-PsKI7UN0RHmIxGCF2yQlZQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-PsKI7UN0RHmIxGCF2yQlZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:36:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2315,7 +2737,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-b6Jz8TDaRAqmfsO7ByrJxQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-b6Jz8TDaRAqmfsO7ByrJxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:36:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2326,7 +2750,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-fi9AA8miSM6y9pCfwPRg3wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-fi9AA8miSM6y9pCfwPRg3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:37:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerLARIAT",
@@ -2337,7 +2763,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-w9iWqPslS9W02ZdqNtF86Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-lariat-w9iWqPslS9W02ZdqNtF86Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:37:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerRaptor",
@@ -2348,7 +2776,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-raptor-lRdVsaJRSJWMwVD6BFYzUAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-raptor-lRdVsaJRSJWMwVD6BFYzUAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:37:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerRaptor",
@@ -2358,7 +2788,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-raptor-uu55mZILRcCur4C2bC0xOAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-raptor-uu55mZILRcCur4C2bC0xOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:37:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2369,7 +2801,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-7uWyXL6gSI2NRDL7X0sIUAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-7uWyXL6gSI2NRDL7X0sIUAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:31:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2380,7 +2814,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-FUQgzseySGGcqBEw1HlQvQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-FUQgzseySGGcqBEw1HlQvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:38:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2391,7 +2827,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-GxYWTDK2QRiEsqxBJzxxXwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-GxYWTDK2QRiEsqxBJzxxXwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:32:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2402,7 +2840,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-Q4GfcgeBQhqKKWu6uW9eSgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-Q4GfcgeBQhqKKWu6uW9eSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:38:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2413,7 +2853,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-R38xfJW3Qvi5ERs8N4eKtAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-R38xfJW3Qvi5ERs8N4eKtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:38:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2424,7 +2866,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-UhthZn2QS9mKlDazZr6Iugvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-UhthZn2QS9mKlDazZr6Iugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:32:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2435,7 +2879,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-XU4nOmsZStqbzVoDgfnlwgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-XU4nOmsZStqbzVoDgfnlwgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:38:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2446,7 +2892,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-aJEdHNpRRzKhiGyB7mOTEwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-aJEdHNpRRzKhiGyB7mOTEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:32:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2457,7 +2905,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-bqFdz35wSBqxQg2b3qWWBAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-bqFdz35wSBqxQg2b3qWWBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:32:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2468,7 +2918,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-eCzTxtLaTCezMeFX1bufQAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-eCzTxtLaTCezMeFX1bufQAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:39:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2479,7 +2931,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-qSjIiwxjRkioijEMGZ2A1Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-qSjIiwxjRkioijEMGZ2A1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:39:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -2490,7 +2944,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-r4AvNGnZSU2QcLJSDe0h4wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-ranger-xlt-r4AvNGnZSU2QcLJSDe0h4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:39:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordSuper Duty F-550 DRWXLT",
@@ -2501,7 +2957,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-550-drw-xlt-SCKHdXjrRqKQcR9w59o0SQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-550-drw-xlt-SCKHdXjrRqKQcR9w59o0SQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:40:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordSuper Duty F-550 DRWXLT",
@@ -2512,7 +2970,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-550-drw-xlt-mHK3Naw0RiSqYiDxOgDJxAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-super-duty-f-550-drw-xlt-mHK3Naw0RiSqYiDxOgDJxAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:40:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026FordTransit Cargo Van",
@@ -2523,7 +2983,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-transit-cargo-van-g18NbtDtSdyJ2fL3eMYMFwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-transit-cargo-van-g18NbtDtSdyJ2fL3eMYMFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:40:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorPremiere",
@@ -2534,7 +2996,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-1H5dNx2VQTmaglQoeGRilwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-1H5dNx2VQTmaglQoeGRilwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:41:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorPremiere",
@@ -2545,7 +3009,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-bUgS201xQJ2MFwGQGzDNgwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-bUgS201xQJ2MFwGQGzDNgwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:41:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorPremiere",
@@ -2556,7 +3022,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-iPPsmjqySZ2ZuSJWhD2Zkgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-iPPsmjqySZ2ZuSJWhD2Zkgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:41:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorPremiere",
@@ -2567,7 +3035,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-kdM0re6JSgSy7qnPgjaFZQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-kdM0re6JSgSy7qnPgjaFZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:41:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorPremiere",
@@ -2578,7 +3048,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-ktWIkXNcQbWgskja8UblDQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-premiere-ktWIkXNcQbWgskja8UblDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:42:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorReserve",
@@ -2589,7 +3061,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-GTo87iPPQVG2iKeg0S4IVgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-GTo87iPPQVG2iKeg0S4IVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:42:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorReserve",
@@ -2600,7 +3074,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-XYUP70WcTCubCHrQHjdSTgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-XYUP70WcTCubCHrQHjdSTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:42:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnAviatorReserve",
@@ -2611,7 +3087,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-otxUAHYQTsy8iFwngbpnnwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-aviator-reserve-otxUAHYQTsy8iFwngbpnnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:42:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnCorsairGrand Touring",
@@ -2622,7 +3100,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-corsair-grand-touring-Hw1lkxWSQBuNHGGGGFiINAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-corsair-grand-touring-Hw1lkxWSQBuNHGGGGFiINAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:43:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnCorsairGrand Touring",
@@ -2633,7 +3113,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-corsair-grand-touring-pRgju63BTBCAZFf4628l6Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-corsair-grand-touring-pRgju63BTBCAZFf4628l6Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:43:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnNautilusPremiere",
@@ -2644,7 +3126,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-premiere-IsWq5YXwSZ2ggSHiB2tM4gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-premiere-IsWq5YXwSZ2ggSHiB2tM4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:43:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnNautilusPremiere",
@@ -2654,7 +3138,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-premiere-LR1U0Qv4S92nz5GPPfGd7Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-premiere-LR1U0Qv4S92nz5GPPfGd7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:44:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026LincolnNautilusReserve",
@@ -2665,7 +3151,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-reserve-qxXD5Tw9QzGjoh1gYjjNLAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-lincoln-nautilus-reserve-qxXD5Tw9QzGjoh1gYjjNLAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:44:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordExpeditionActive",
@@ -2676,7 +3164,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-expedition-active-ue9BuRLPRNa6yE1VY8lSxwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-expedition-active-ue9BuRLPRNa6yE1VY8lSxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:44:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordSuper Duty F-350 DRWLariat",
@@ -2687,7 +3177,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-drw-lariat-jaAizWl0Qc6TqN02ddxgqwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-drw-lariat-jaAizWl0Qc6TqN02ddxgqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:44:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordSuper Duty F-350 SRWPlatinum",
@@ -2698,7 +3190,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-srw-platinum-uDO4J4piTwqhrulz5b4EWgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-350-srw-platinum-uDO4J4piTwqhrulz5b4EWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:45:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordSuper Duty F-450 DRWKing Ranch",
@@ -2709,7 +3203,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:28:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordTransit Cargo Van",
@@ -2720,7 +3216,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-Qz2xEMZMRROByP9wnZvdHAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-Qz2xEMZMRROByP9wnZvdHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:45:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordTransit Cargo Van",
@@ -2731,7 +3229,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-ojF5IpgJRpWDRd8PP6sDwAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-ojF5IpgJRpWDRd8PP6sDwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:45:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordTransit Cargo Van",
@@ -2742,7 +3242,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-se4kukBGSDeFUW7vr3pG3Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-se4kukBGSDeFUW7vr3pG3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:45:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordTransit Cargo Van",
@@ -2753,7 +3255,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-umTfMgacRMSLpje5hXMbowvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-umTfMgacRMSLpje5hXMbowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:46:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027FordTransit Cargo Van",
@@ -2764,7 +3268,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-wHpnxrNVQKKCuvy4RGZv5Avdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-wHpnxrNVQKKCuvy4RGZv5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:46:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigatorBlack Label",
@@ -2775,7 +3281,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-black-label-LSgg1lBzQWCbtQqVhncFugvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-black-label-LSgg1lBzQWCbtQqVhncFugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:46:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigatorBlack Label",
@@ -2786,7 +3294,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-black-label-jHqqE6Y9RzC12NkjukKHEgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-black-label-jHqqE6Y9RzC12NkjukKHEgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:46:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigator LBlack Label",
@@ -2797,7 +3307,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-black-label-k8dZsg8QRdW7ceKCKmWZSAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-black-label-k8dZsg8QRdW7ceKCKmWZSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:47:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigator LReserve",
@@ -2807,7 +3319,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-reserve-XIgloktmS8SMffrpZ4gndQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-reserve-XIgloktmS8SMffrpZ4gndQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:47:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigator LReserve",
@@ -2818,7 +3332,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-reserve-lVvpHNTRSWiqmk6y6axxsgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-l-reserve-lVvpHNTRSWiqmk6y6axxsgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:47:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigatorReserve",
@@ -2829,7 +3345,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-7CZYlmU2TBG2HSiL1U6RIQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-7CZYlmU2TBG2HSiL1U6RIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:47:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigatorReserve",
@@ -2840,7 +3358,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-H85WNOqET2qT4ejEFyoI2Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-H85WNOqET2qT4ejEFyoI2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:48:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027LincolnNavigatorReserve",
@@ -2850,7 +3370,9 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-xbGfy4sGSJakAVEm27Acqwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-lincoln-navigator-reserve-xbGfy4sGSJakAVEm27Acqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:48:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     }
   ]
 }
