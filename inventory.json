@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-10-08T14:35:00",
-  "vehicle_count": 261,
+  "generated_at": "2026-10-08T19:50:15",
+  "vehicle_count": 274,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -42,6 +42,31 @@
       "province": "BC"
     },
     {
+      "name": "Used2018FordSuper Duty F-450 DRWPlatinum",
+      "vin": "1FT8W4DT3JEB45714",
+      "stock": "P14079",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/f4fb55edd751.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2018-ford-super-duty-f-450-drw-platinum-NB8A8MNrQLGSiS8Xzz1pxwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2018-ford-super-duty-f-450-drw-platinum-NB8A8MNrQLGSiS8Xzz1pxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:43:48",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2018HyundaiTucsonUltimate",
+      "vin": "KM8J3CA2XJU836711",
+      "stock": "26ME333",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/54686a835bb9.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2018-hyundai-tucson-ultimate-NG9uGojsQb6blBoRsjRcOgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2018-hyundai-tucson-ultimate-NG9uGojsQb6blBoRsjRcOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:44:03",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Used2018Mercedes-BenzGLEGLE 400",
       "vin": "4JGDA5GB6JB042743",
       "stock": "26F0194",
@@ -49,6 +74,18 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2018-mercedes-benz-gle-gle-400-L2WW79jMTCyq09FVTp0uWwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2018-mercedes-benz-gle-gle-400-L2WW79jMTCyq09FVTp0uWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:24",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2019HondaPilotEX-L Navi",
+      "vin": "5FNYF6H78KB500336",
+      "stock": "26F4238",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/3732a282a2b1.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-honda-pilot-ex-l-navi-bGeAZ6cQTcKo8IhNRDbs4wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-honda-pilot-ex-l-navi-bGeAZ6cQTcKo8IhNRDbs4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:44:20",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -74,6 +111,18 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-hyundai-santa-fe-preferred-ZgD6YHWeQxSQryGaIXtKRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:30:55",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2019LincolnNavigatorReserve",
+      "vin": "5LMJJ2LT5KEL25695",
+      "stock": "27NA257",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/6d8aee857a7a.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2019-lincoln-navigator-reserve-KIAJxC9UQVSUEQMIsOHAAgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2019-lincoln-navigator-reserve-KIAJxC9UQVSUEQMIsOHAAgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:44:34",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -182,6 +231,31 @@
       "province": "BC"
     },
     {
+      "name": "Used2022FordBronco SportBadlands",
+      "vin": "3FMCR9D91NRD86432",
+      "stock": "P14032A",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/652400863fe6.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-sport-badlands-puZhLWJzR5mnFMykUutmwwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-sport-badlands-puZhLWJzR5mnFMykUutmwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:44:51",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022FordBronco SportBase",
+      "vin": "3FMCR9A69NRD63071",
+      "stock": "P14100A",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/201372ef9852.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-sport-base-J1Wae8BvT5qjxnTFdiVWiAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-bronco-sport-base-J1Wae8BvT5qjxnTFdiVWiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:45:08",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Used2022FordEscapeSEL Plug-In Hybrid",
       "vin": "1FMCU0KZXNUB21448",
       "stock": "P14086",
@@ -203,6 +277,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-titanium-3tjEn1TxRlakhTU9k8qgaQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-titanium-3tjEn1TxRlakhTU9k8qgaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-23T23:33:13",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022FordExplorerLimited",
+      "vin": "1FM5K8FWXNNA07912",
+      "stock": "P14097",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/e4219006431c.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-SC93XuFiT5yC0PgWjgQqHQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-explorer-limited-SC93XuFiT5yC0PgWjgQqHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:45:25",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -254,7 +341,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/ec9a52171959.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-f-150-lariat-emYzbQKfQSapQ3U98UeZ6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:49:37",
+      "last_verified": "2026-10-08T19:47:20",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -305,7 +392,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/a0c192cdf6c8.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-mustang-mach-1-dhvi021MREOPCOSnZAdajgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:49:51",
+      "last_verified": "2026-10-08T19:47:37",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -336,6 +423,19 @@
       "province": "BC"
     },
     {
+      "name": "Used2023FordExplorerPlatinum",
+      "vin": "1FM5K8HC9PGC04421",
+      "stock": "P14126",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/73eacf239316.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-explorer-platinum-fGnJrwtBSOqJg44XLs1fewvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-explorer-platinum-fGnJrwtBSOqJg44XLs1fewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:45:40",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Used2023FordF-150Lariat",
       "vin": "1FTEW1EP0PFC72460",
       "stock": "P14052",
@@ -356,7 +456,20 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9535b5efd753.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-platinum-9Q1bVZpyQxiltXkUmrIOSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:50:23",
+      "last_verified": "2026-10-08T19:48:01",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2023FordF-150Raptor",
+      "vin": "1FTFW1RG9PFC64095",
+      "stock": "P14119",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/b8803163052c.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-raptor-gnbUvfeNSdyVdWP4sZ3Zrgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-raptor-gnbUvfeNSdyVdWP4sZ3Zrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:45:55",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -395,7 +508,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/1e8065dc83f5.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-f-150-xlt-wMflqkRzTueledq93NzgfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:50:39",
+      "last_verified": "2026-10-08T19:48:18",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -414,6 +527,19 @@
       "province": "BC"
     },
     {
+      "name": "Used2023FordMaverickXLT",
+      "vin": "3FTTW8F98PRA45679",
+      "stock": "P14106A",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/8c3ec76e9b8b.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-MhcfTYJ5RFKg7HyOxulv3Qvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-maverick-xlt-MhcfTYJ5RFKg7HyOxulv3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:46:09",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Used2023FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT3PED50794",
       "stock": "P14082",
@@ -421,7 +547,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/58a2fb6a9cd2.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-super-duty-f-350-srw-lariat-IVdDCnXZS76BD8GaKHVlzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:50:55",
+      "last_verified": "2026-10-08T19:48:32",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -447,7 +573,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/f8a9d176a8bd.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-ford-transit-cargo-van-WQxSBbdkRWWourYrbBSsrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:51:09",
+      "last_verified": "2026-10-08T19:48:47",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -485,7 +611,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9879d0884320.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2023-lincoln-navigator-reserve-JFFCwlrPQMCcrxrrx9snggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:51:25",
+      "last_verified": "2026-10-08T19:49:02",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -524,6 +650,18 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-ford-ranger-xlt-GPkk98mESOOGqIO2tWVvHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:20:04",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2024HyundaiElantraPreferred",
+      "vin": "KMHLM4DG1RU670741",
+      "stock": "26F5561",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/9d44b3a0529b.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2024-hyundai-elantra-preferred-V1SuXO9xQ52LwFBLlKqSpAvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2024-hyundai-elantra-preferred-V1SuXO9xQ52LwFBLlKqSpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:46:23",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -575,7 +713,20 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/5004516b0e4a.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-IaN44LTVSNCleWXNI9PEBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:52:42",
+      "last_verified": "2026-10-08T19:49:43",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2025FordMustangGT Premium",
+      "vin": "1FA6P8CF5S5413127",
+      "stock": "26ME492",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/84adfb562475.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-lIwLgK4nTTmmy6uNKneUFwvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-gt-premium-lIwLgK4nTTmmy6uNKneUFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:46:39",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -587,7 +738,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/e1ef8cde2859.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2025-ford-mustang-mach-e-select-kmE3lJHiQMGcEMJdeAgkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T23:52:55",
+      "last_verified": "2026-10-08T19:50:00",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -666,6 +817,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-mustang-ecoboost-VzoucI5FRMSIOAltdT9G9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T23:54:27",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2026GMCSierra 1500Denali",
+      "vin": "3GTUUGEL0TG140695",
+      "stock": "P13881",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/used/fe131783a83f.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-gmc-sierra-1500-denali-DjIg0LorRoyw9xWSgGdSAQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-gmc-sierra-1500-denali-DjIg0LorRoyw9xWSgGdSAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T19:46:55",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
