@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-10-15T02:26:42",
-  "vehicle_count": 300,
+  "generated_at": "2026-10-16T05:29:30",
+  "vehicle_count": 304,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1079,6 +1079,19 @@
       "province": "BC"
     },
     {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN0TRF26693",
+      "stock": "26BS669",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/120fda7423ce.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-iy0rs1ZDSUS9KCsFqyNl6wvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-bronco-sport-big-bend-iy0rs1ZDSUS9KCsFqyNl6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T05:26:06",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "New2026FordBronco SportOuter Banks",
       "vin": "3FMCR9CN3TRE86897",
       "stock": "26BS689",
@@ -1294,7 +1307,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/0258764c86b1.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-Le7WG4vbQLO8MscGwRj0Jgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-Le7WG4vbQLO8MscGwRj0Jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:08:18",
+      "last_verified": "2026-10-16T05:28:11",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1333,7 +1346,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/29da41154d31.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-XsUFvkr7RVuUSFZE1G2jFAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-XsUFvkr7RVuUSFZE1G2jFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:08:46",
+      "last_verified": "2026-10-16T05:28:36",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1359,7 +1372,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/a59fb1b23ab3.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-f0wOSNqNQQW9ShnJxHO5Tgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-f0wOSNqNQQW9ShnJxHO5Tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:09:15",
+      "last_verified": "2026-10-16T05:29:01",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1372,7 +1385,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/c3aebb1def55.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-h5YZ2Is8SXWSfoRdUYbY1Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-h5YZ2Is8SXWSfoRdUYbY1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:09:30",
+      "last_verified": "2026-10-16T05:29:16",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1451,6 +1464,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:11:17",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "New2026FordF-150Platinum",
+      "vin": "1FTFW7L89TFC39003",
+      "stock": "26F9003",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/94c65daf03a8.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-iwb6UDVQR5CEhRnWRRLc8Avdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-iwb6UDVQR5CEhRnWRRLc8Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T05:26:23",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1685,6 +1711,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-bxMXkRxCTP6w5ZkeIlSqVwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-bxMXkRxCTP6w5ZkeIlSqVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:15:29",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L89TFC27416",
+      "stock": "26F7416",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/1e5f2b838696.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-oMNUHOxSTAWCWoNJQJzUsgvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-tremor-oMNUHOxSTAWCWoNJQJzUsgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T05:26:40",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -2127,6 +2166,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-YfSKpYBmQGyji7EnNxxpqgvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-YfSKpYBmQGyji7EnNxxpqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T02:22:22",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L58TFC25642",
+      "stock": "26F5642",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/e6626a0943c5.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-Z45E019FTLmFuEfU7f0cPQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-xlt-Z45E019FTLmFuEfU7f0cPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T05:26:56",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
