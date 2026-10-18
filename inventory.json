@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Lincoln Ltd",
-  "generated_at": "2026-10-16T05:29:30",
-  "vehicle_count": 304,
+  "generated_at": "2026-10-17T18:47:08",
+  "vehicle_count": 305,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1411,7 +1411,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/eb8cb03d01a3.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-jusYlHs4TcylDBGVKaIP8Qvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-jusYlHs4TcylDBGVKaIP8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:10:01",
+      "last_verified": "2026-10-17T18:46:19",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1424,7 +1424,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/a1b50750b0e7.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-kzhhAiQ8QqyV7tX0G5NJJAvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-lariat-kzhhAiQ8QqyV7tX0G5NJJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:10:17",
+      "last_verified": "2026-10-17T18:46:37",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -1463,7 +1463,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/9d1a9e4a7b1b.html",
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2026-ford-f-150-platinum-Wcj1QNdZQhWsnmaR9Tyrjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T00:11:17",
+      "last_verified": "2026-10-17T18:47:01",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -3728,6 +3728,19 @@
       "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp",
       "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-super-duty-f-450-drw-king-ranch-4BKvCeXMR9iCnz7e5P7q8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:28:54",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "New2027FordTransit Cargo Van",
+      "vin": "1FTBR1C85VKA21265",
+      "stock": "27T1265",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-lincoln-ltd-mirror/new/18a822a96914.html",
+      "source_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-7XNY3dZoS7aJ0NgHd5gBjQvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2027-ford-transit-cargo-van-7XNY3dZoS7aJ0NgHd5gBjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:44:38",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
